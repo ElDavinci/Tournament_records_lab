@@ -2,7 +2,7 @@
 
 This project is my lab final submission for the course CPCS203 <br>
 Description: <br>
-its a simple system for formating players into their respective leagues and even shows players deserving of gifts if they got man of the match more than 5 times to get a prize of 5000$ (per default)
+its a simple system for formating players into their respective leagues and even shows players deserving of gifts if they got man of the match more than 5 times to get a prize of 5000$ (by default)
 
 ## Folder Structure
 
